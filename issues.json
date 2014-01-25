@@ -17,6 +17,8 @@
         "url": "http://interactivepython.org/runestone/static/thinkcspy/index.html",
         "cover": "img/runestone.png"
     },
+	
+	
     {
         "title": "Problem Solving with Algorithms and Data Structures Using Python",
         "author": "B. Miller & D. Ranum",
@@ -466,5 +468,16 @@
       "info":"A beginner's guide to web development with Django 1.5.4. This book has been designed to get you going fast and to learn by example. You'll learn the key aspects of the Python Django Framework by developing an application called Rango.",
       "url":"http://www.tangowithdjango.com",
       "cover": "img/cover_tangowithdjango.jpg"
+    },
+	
+	 {
+        "title": "GUI Programming with Python: QT Edition",
+        "author": "Boudewijn Rempt",
+        "authorUrl": "http://www.valdyas.org/python/book.html",
+        "level": "Intermediate",
+        "info": "This book teaches application development using PyQt, a library extension to Python, for GUI programming",
+        "url": "http://www.commandprompt.com/community/pyqt/",
+        "cover": "img/cover_guiprogrammingQT.png"
     }
+	
 ]}
